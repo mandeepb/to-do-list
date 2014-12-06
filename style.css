@@ -1,12 +1,38 @@
+h2, #input, #do p {
+  font-family: arial;
+}
+.background {
+  background: #e6f5e6;
+}
 ul {
   list-style-type: none;
-  margin: 0;
   padding: 0;
   width: 100%;
 }
 li {
-  border: 1px solid #ccc;
-  background: #eee;
+  border: 1px solid #99d699;
   color: #000;
   padding: 5px 10px;
 }
+#do, ul {
+  margin: 0;
+}
+#do input {
+  margin-right: 10px;
+}
+#input {
+  border: none;
+  width: 100%;
+  outline: none;
+  font-size: 15px;
+}
+button {
+  font-size: 15px;
+  border: none;
+  border-radius: 5px;
+  background: e5f6e5;
+  height: 20px;
+  width: 40px;
+  box-shadow:
+}
+
