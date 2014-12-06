@@ -27,12 +27,16 @@ li {
   font-size: 15px;
 }
 button {
-  font-size: 15px;
-  border: none;
+  font-size: 17px;
+  border: 2px solid #99d699;
   border-radius: 5px;
-  background: e5f6e5;
-  height: 20px;
+  background: #e5f6e5;
+  height: 26px;
+  line-height: 1.2px;
+  outline: none;
   width: 40px;
-  box-shadow:
+  margin-bottom: 20px;
 }
-
+div {
+  padding: 0 45px;
+}
